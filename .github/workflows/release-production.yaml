@@ -32,7 +32,7 @@ jobs:
         with:
           node-version: 14
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: '**/node_modules'
           key: node_modules-${{ hashFiles('**/package-lock.json') }}
@@ -61,7 +61,7 @@ jobs:
         with:
           node-version: 14
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: '**/node_modules'
           key: node_modules-${{ hashFiles('**/package-lock.json') }}
@@ -117,7 +117,7 @@ jobs:
         with:
           node-version: 14
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: '**/node_modules'
           key: node_modules-${{ hashFiles('**/package-lock.json') }}
@@ -176,7 +176,7 @@ jobs:
         with:
           node-version: 14
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: '**/node_modules'
           key: node_modules-${{ hashFiles('**/package-lock.json') }}
