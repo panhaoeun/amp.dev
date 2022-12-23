@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T02:22:17.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iCbUyv7GOToTPMTvzm_D" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T02:24:00.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="79ldM7agZrDzFJbEKOs8" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Garage Map App - DB Diagram">
-    <mxGraphModel dx="2802" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3131" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -588,7 +588,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfA8qvyjhMoh7MB1J778-34" value="Item Category" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="522" y="35" width="160" height="105" as="geometry">
+          <mxGeometry x="520" y="-55" width="160" height="105" as="geometry">
             <mxRectangle x="-830" y="60" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -602,7 +602,7 @@
           <mxGeometry y="78" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="TfA8qvyjhMoh7MB1J778-45" value="Client" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="762" y="35" width="160" height="315" as="geometry">
+          <mxGeometry x="720" y="-40" width="160" height="315" as="geometry">
             <mxRectangle x="-830" y="60" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
